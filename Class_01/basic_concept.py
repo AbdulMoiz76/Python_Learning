@@ -1,2 +1,2 @@
 ab = "Abdul Moiz"
-print(ab)
+print(ab)😂
