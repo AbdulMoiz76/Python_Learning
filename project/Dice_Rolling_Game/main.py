@@ -3,7 +3,7 @@ import random
 while True:
 
     Choice = input(
-        "Do you wnat to play a dice rolling game? (yes/no):  ").lower()
+        "Do you wnat to play a dice rolling game? (yes/no/quit):  ").lower()
     if Choice == "yes":
         print("Welcome to the Dice Rolling Game!")
         dice_roll_1 = random.randint(1, 6)
