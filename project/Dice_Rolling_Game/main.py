@@ -10,7 +10,7 @@ while True:
         dice_roll_2 = random.randint(1, 6)
         print(f"You rolled a {dice_roll_1} and a {dice_roll_2}")
     elif Choice == "no":
-        print("you have play game just fun! ")
+        print("You have Play Game just FUN! ")
         continue
     elif Choice == "quit".lower():
         print("Thanks for playing the Dice Rolling Game!")
