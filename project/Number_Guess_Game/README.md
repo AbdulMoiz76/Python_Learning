@@ -1,0 +1,1 @@
+![Project_structure](image/Number_Guess_Structure.png)
